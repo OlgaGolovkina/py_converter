@@ -1,6 +1,7 @@
 ![py_converter Logo](https://apptha-blog.s3.amazonaws.com/blog/wp-content/uploads/2018/10/over.png)
 # py_converter
-Simple system for converting the currency. Lightweight implementation (only success pass, just a quick example for the coding interview). 
+Simple system for converting the currency. 
+Lightweight implementation (only success pass, the final goal: a quick example for the coding interview). 
 #
 Python 3.7 is supported. Install all requirements, preferably within a virtualenv:
 * Clone this repo
